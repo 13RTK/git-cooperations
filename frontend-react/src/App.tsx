@@ -5,7 +5,7 @@ import Status from './components/Status';
 function App() {
   return (
     <>
-      // <Status />
+      <Status />
       <Navbar />
       <AppList />
     </>
